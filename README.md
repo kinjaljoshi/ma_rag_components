@@ -5,10 +5,4 @@
 3. DB Query generation - [generate_sql.ipynb](https://github.com/kinjaljoshi/ma_rag_components/blob/master/generate_sql.ipynb)
 4. api call generation - [api_call.ipynb](https://github.com/kinjaljoshi/ma_rag_components/blob/master/api_call.ipynb)
 5. Agent Planning for task execution using tools [planning_and_execute.ipynb](https://github.com/kinjaljoshi/ma_rag_components/blob/master/planning_and_execute.ipynb)
-
-User Query ---> Route on api or sql 
-                 | (api)          |(sql)
-              call api           generate and execute sql
-                 |                |
-               Agent Response to the end user
               
